@@ -16,3 +16,4 @@ formato:
 
 - Tener cuenta en `https://developer.twitter.com/` para las respectivas keys de la API.
 - Tweepy
+- Ejemplo: https://twitter.com/finsemestreUIS
