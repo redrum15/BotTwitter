@@ -14,6 +14,4 @@ formato:
 
 # Requisitos
 
-- Instalar Selenium para la correspondiente versión de Python. `pip install selenium` o `pip3 install selenium`
-- Firefox versión 60 o mayor.
-- Intalar el webdriver para Firefox. `https://github.com/mozilla/geckodriver/releases`
+- Tener cuenta en `https://developer.twitter.com/` para las respectivas keys de la API.
